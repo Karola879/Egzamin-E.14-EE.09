@@ -22,7 +22,7 @@
                     <input type="submit" value="Zobacz">
                 </form>
                 <img src="zad2.png" alt="piłka">
-                <p>Autor: Karola</p>
+                <p>Autor: 00000000000</p>
             </section>
             <section id="prawy">
                 <ol>
