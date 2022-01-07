@@ -1,0 +1,7 @@
+kw1: SELECT imie, nazwisko FROM zawodnik WHERE pozycja_id=4
+kw2: SELECT zespol, punkty, grupa FROM liga order by punkty desc
+kw3: select zawodnik.id, zawodnik.nazwisko, pozycja.nazwa from zawodnik inner join pozycja on zawodnik.pozycja_id=pozycja.id where zawodnik.id=3 or zawodnik.id=5
+kw4: delete from rozgrywka
+
+
+".$_POST['pozycja']."
