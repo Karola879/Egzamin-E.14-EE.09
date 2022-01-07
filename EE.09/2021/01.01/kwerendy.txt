@@ -1,0 +1,6 @@
+kw1: SELECT zespol1, zespol2, wynik, data_rozgrywki FROM rozgrywka WHERE zespol1='EVG'
+kw2: SELECT imie, nazwisko FROM zawodnik WHERE id='3'
+kw3: select zawodnik.id, zawodnik.nazwisko, pozycja.nazwa from zawodnik inner join pozycja on zawodnik.pozycja_id=pozycja.id where zawodnik.id between 1 and 3
+kw4: drop table liga
+
+SELECT imie, nazwisko FROM zawodnik inner join pozycja WHERE pozycja_id=$poz

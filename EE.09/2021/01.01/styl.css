@@ -1,0 +1,10 @@
+body {font-family: Tahoma; background: crimson;}
+h2 {text-align: center; letter-spacing: 7px; text-transform: capitalize;}
+#baner {color: white; text-align: center; height: 370px;}
+#bloki {display: flex;}
+#blok_w_php {color: white; text-align: center; width: 200px; margin: 10px; border: 1px solid black; border-radius: 10px;}
+#blok_w_php:hover {border: 1px solid white;}
+#blok_glowny {background: whitesmoke; height: 50px;}
+#dwa {display: flex;}
+#lewy {background: whitesmoke; width: 70%; height: 230px;}
+#prawy {background: whitesmoke; width: 30%; height: 230px; text-align: right;}
