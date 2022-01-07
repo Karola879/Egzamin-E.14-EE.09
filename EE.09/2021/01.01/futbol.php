@@ -49,7 +49,7 @@
             </section>
             <section id="prawy">
                 <img src="zad1.png" alt="piłkarz">
-                <p>Autor: Karolina Kamela</p>
+                <p>Autor: 00000000000</p>
             </section>
         </section>
     </body>
